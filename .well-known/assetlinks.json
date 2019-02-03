@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "cloud.blacksalt.eflyr",
+            "sha256_cert_fingerprints": [
+                "CD:46:F4:77:C8:FE:8A:B3:27:36:78:76:05:1A:C2:5C:B9:68:91:21:DE:0E:7D:81:88:E3:0F:3E:C8:27:E4:47"
+            ]
+        }
+    }
+]
